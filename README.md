@@ -52,9 +52,9 @@ NumberGuessingGame/
 ├── .project
 ├── module-info.java
 └── README.md
+## 📸 Sample Output
 
-Sample Output
-
+```text
 ==============================
      NUMBER GUESSING GAME
 ==============================
@@ -79,8 +79,7 @@ Enter your guess: 63
 Correct!
 
 You guessed it in 3 attempts.
-
-Learning Outcomes
+##📚 Learning Outcomes
 
 Through this project, I practiced:
 
@@ -90,5 +89,4 @@ Random number generation
 User input handling
 Input validation
 ArrayList
-Exception-safe input handling
-Basic problem-solving and game logic
+Basic problem-solving and game logic.
